@@ -27,5 +27,6 @@ The application includes the following key modules and functionalities:
 
 * **Application ID:** 2196674
 * **APEX Version:** Developed with Oracle APEX 24.2.6
-* **Exported By:** GEORGIANA939@YAHOO.COM
+* **Exported By: GEORGIANA939@YAHOO.COM
 * **Application Version:** Release 1.0
+ 
