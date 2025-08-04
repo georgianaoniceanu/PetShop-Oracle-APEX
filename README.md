@@ -19,7 +19,7 @@ The application includes the following key modules and functionalities:
 * **Comanda (Order Detail):** View and manage individual order details.
 * **Plati (Payments):** Record and track payments.
 * **Statistici (Statistics):** Provides dashboards or reports for key business metrics.
-* **Data Comenzi (Order Dates):** Likely a calendar or detailed view of order dates.
+* **Data Comenzi (Order Dates):** A calendar or detailed view of order dates.
 * **PRODUSE (Product Search/View):** Another interface for viewing or searching products.
 * **Feedback:** A module for collecting user feedback.
 
@@ -27,6 +27,6 @@ The application includes the following key modules and functionalities:
 
 * **Application ID:** 2196674
 * **APEX Version:** Developed with Oracle APEX 24.2.6
-* **Exported By:  ** GEORGIANA939@YAHOO.COM
+* **Exported By:** GEORGIANA939@YAHOO.COM
 * **Application Version:** Release 1.0
  
