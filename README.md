@@ -5,7 +5,11 @@ This repository contains the Oracle APEX application export for the "Pet Shop" m
 
 ## About the Application
 
-The Pet Shop application is an Oracle APEX-based system designed to manage various aspects of a pet shop's operations. It provides functionalities for handling clients, suppliers, products, orders, payments, and includes reporting features.
+The Pet Shop is a business-oriented web application developed using Oracle APEX, designed to streamline and manage the core operations of a pet shop. It covers client and supplier management, product inventory, order processing, payment tracking, and data visualization through statistics and reports.
+Built as a structured and functional internal tool, the application focuses on operational efficiency while maintaining user-friendly navigation and clear data relationships between modules.
+
+Impact:
+Facilitates digital transformation for small pet shop businesses by offering an integrated platform to manage essential processes such as orders, payments, and inventory tracking, improving accuracy and reducing manual work.
 
 ## Features
 
@@ -29,4 +33,7 @@ The application includes the following key modules and functionalities:
 * **APEX Version:** Developed with Oracle APEX 24.2.6
 * **Exported By:** GEORGIANA939@YAHOO.COM
 * **Application Version:** Release 1.0
- 
+
+## Technologies used:
+Oracle APEX, SQL, PL/SQL
+
